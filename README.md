@@ -12,7 +12,7 @@ You will need to have installed
 2 ) Then we will run with folliwing command:
 
 `npm run start`
-3 ) It's all! can you see project running in ** 127.0.0.1:3000 **
+3 ) It's all! can you see project running in **127.0.0.1:3000**
 
 4 ) Enter to `127.0.0.1:3000/ip/your-ip`.
 
