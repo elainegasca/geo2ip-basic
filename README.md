@@ -6,7 +6,7 @@ You will need to have installed
  - Nodejs
 
 ## Get started
-1 ) First u need install dependencies with your package manager (in this case we will use npm)
+1 ) First you need install dependencies with your package manager (in this case we will use npm)
 
 `npm install`
 2 ) Then we will run with folliwing command:
